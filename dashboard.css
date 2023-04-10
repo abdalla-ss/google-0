@@ -1,0 +1,53 @@
+.vertical-menu {
+  width: 20%;
+  height: 50%; 
+}
+
+.vertical-menu a {
+  background-color: grey;
+  color: black; 
+  display: block; 
+  padding: 15px 15px;
+  text-decoration: none; 
+}
+
+.vertical-menu a:hover {
+  background-color:lightblue; 
+}
+
+.vertical-menu a.active {
+  background-color: blue;
+  color: white;
+}
+.html{
+	height: 100%;
+
+}
+.body{
+	height: 100%;
+}
+.bg{
+	background-image:url('bckground.jpg');
+	width: 100%;
+	height: 100%;
+}
+.fomu{
+color: ; 
+text-shadow: grey;
+}
+.H1{
+	color: blue;
+	text-align:center; 
+}
+.img{
+	width: 50%
+	height:50%;
+}
+.back{
+	color: black;
+}
+.image{
+	width: 50%;
+	height: 50%;
+
+}
